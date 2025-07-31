@@ -1,6 +1,7 @@
 #### Welcome to my Github profile!👋
 
-https://www.codewars.com/users/GromovaViktoriya/badges/large
+[![Codwears badge](https://www.codewars.com/users/GromovaViktoriya/badges/large)](https://www.codewars.com/users/GromovaViktoriya)
+
 
 <!--
 **GromovaViktoriya/GromovaViktoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
