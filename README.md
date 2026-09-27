@@ -26,13 +26,13 @@
 </p>
 
 <p>
-  🏋️ Outside of code: strength training, fantasy books, book club discussions,
-  video games, and the occasional creative side quest.
+  🔭 I'm currently working on a fitness-tracking app for my own workouts —
+  because “I wish this app had…” eventually turned into “I’ll build it myself.”
 </p>
 
 <p>
-  🔭 I'm currently working on a fitness-tracking app for my own workouts —
-  because “I wish this app had…” eventually turned into “I’ll build it myself.”
+  🏋️ Outside of code: strength training, fantasy books, book club discussions,
+  video games, and the occasional creative side quest.
 </p>
 
 <p>
