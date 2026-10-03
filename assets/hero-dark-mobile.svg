@@ -1,17 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="390" viewBox="0 0 600 390" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-labelledby="title desc">
     <title id="title">Hi, I'm Viktoriya. Architect turned frontend developer.</title>
-    <desc id="desc">A dark profile banner with an interface illustration, orange stars, and the tagline Form. Function. A little fun.</desc>
-    <defs><clipPath id="clip"><rect x="1" y="1" width="598" height="388" rx="20"/></clipPath></defs>
-    <rect x=".75" y=".75" width="598.5" height="388.5" rx="20" fill="#101820" stroke="#32414D" stroke-width="1.5"/>
-    <g clip-path="url(#clip)"><g stroke="#26313B" stroke-width=".6" opacity=".25"><path d="M0 0V390"/><path d="M60 0V390"/><path d="M120 0V390"/><path d="M180 0V390"/><path d="M240 0V390"/><path d="M300 0V390"/><path d="M360 0V390"/><path d="M420 0V390"/><path d="M480 0V390"/><path d="M540 0V390"/><path d="M0 0H600"/><path d="M0 60H600"/><path d="M0 120H600"/><path d="M0 180H600"/><path d="M0 240H600"/><path d="M0 300H600"/><path d="M0 360H600"/></g></g>
-    <circle cx="43" cy="47" r="4" fill="#FFAD70"/>
-        <text x="59" y="53" fill="#A4AFB9" font-size="16" font-family="monospace" letter-spacing="1.5">A NEW WAY TO BUILD</text>
-        <text x="40" y="122" fill="#F5F5F0" font-size="36" font-family="Arial, Helvetica, sans-serif">Hi, I'm</text>
-        <text x="35" y="217" fill="#F5F5F0" font-size="94" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-5">Viktoriya<tspan fill="#FFAD70">!</tspan></text>
-        <path d="M528 111l5 12 12 5-12 5-5 12-5-12-12-5 12-5Z" fill="#FFAD70"/>
-        <path d="M548 190l3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" fill="#FFAD70"/>
-        <text x="41" y="269" fill="#F5F5F0" font-size="21" font-family="monospace">ARCHITECT → FRONTEND DEVELOPER</text>
-        <text x="41" y="307" fill="#A4AFB9" font-size="22" font-family="Arial, Helvetica, sans-serif">Form. Function. A little fun.</text>
-        <path d="M42 335H558" stroke="#32414D"/>
-        <text x="42" y="359" fill="#A4AFB9" font-size="13" font-family="monospace" letter-spacing=".8">REACT / TYPESCRIPT / AN EYE FOR DETAIL</text>
+    <desc id="desc">A compact dark profile banner with centered text, orange stars, and a bold orange arrow from architect to frontend developer.</desc>
+    <defs><clipPath id="clip"><rect x="1" y="1" width="598" height="208" rx="20"/></clipPath></defs>
+    <rect x=".75" y=".75" width="598.5" height="208.5" rx="20" fill="#101820" stroke="#32414D" stroke-width="1.5"/>
+    <g clip-path="url(#clip)"><g stroke="#26313B" stroke-width=".6" opacity=".25"><path d="M0 0V210"/><path d="M60 0V210"/><path d="M120 0V210"/><path d="M180 0V210"/><path d="M240 0V210"/><path d="M300 0V210"/><path d="M360 0V210"/><path d="M420 0V210"/><path d="M480 0V210"/><path d="M540 0V210"/><path d="M0 0H600"/><path d="M0 60H600"/><path d="M0 120H600"/><path d="M0 180H600"/></g></g>
+    <text x="300" y="53" text-anchor="middle" fill="#F5F5F0" font-size="30" font-family="Arial, Helvetica, sans-serif">Hi, I'm</text>
+        <text x="300" y="134" text-anchor="middle" fill="#F5F5F0" font-size="82" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-4">Viktoriya<tspan fill="#FFAD70">!</tspan></text>
+        <path d="M58 73l4 10 10 4-10 4-4 10-4-10-10-4 10-4Z" fill="#FFAD70"/>
+        <path d="M546 117l3 7 7 3-7 3-3 7-3-7-7-3 7-3Z" fill="#FFAD70"/>
+        <text x="214" y="175" text-anchor="end" fill="#F5F5F0" font-size="20" font-family="monospace">ARCHITECT</text>
+        <path d="M230 168H262M253 159l9 9-9 9" fill="none" stroke="#FFAD70" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="278" y="175" fill="#F5F5F0" font-size="20" font-family="monospace">FRONTEND DEVELOPER</text>
     </svg>
