@@ -54,17 +54,10 @@ My family is basically an IT department — my dad, uncle, aunt, brother, and hu
     </a>
   </p>
 <hr />
-<details>
-  <summary><b>Practice log</b> — contributions &amp; Codewars</summary>
-  <br />
-  <p>
-    <a href="https://github.com/GromovaViktoriya">
-      <img src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=GromovaViktoriya&amp;bg_color=00000000&amp;color=a4afb9&amp;line=ffad70&amp;point=ffad70&amp;area=true&amp;area_color=ffad70&amp;hide_border=true" width="100%" alt="Viktoriya’s recent GitHub contribution activity" />
-    </a>
-  </p>
-  <p>
-    <a href="https://www.codewars.com/users/GromovaViktoriya">
-      <img src="https://www.codewars.com/users/GromovaViktoriya/badges/large" alt="GromovaViktoriya on Codewars" />
-    </a>
-  </p>
-</details>
+<p align="center">
+  <img
+    src="./assets/commit-skyline.svg"
+    alt="My GitHub commit skyline — activity over the last 365 days"
+    width="100%"
+  />
+</p>
