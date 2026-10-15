@@ -39,7 +39,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SKYLINE_TOKEN || github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           # commits = только коммиты; contributions = вся активность календаря.
-          SKYLINE_MODE: commits
+          SKYLINE_MODE: contributions
         run: node scripts/generate-skyline.mjs
 
       - name: Save generated images
