@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title description">
   <title id="title">GitHub skyline — GromovaViktoriya</title>
-  <desc id="description">GromovaViktoriya: 1056 contributions. Longest streak 114 days. Current streak 114 days. 2025-11-03 to 2026-11-02, UTC.</desc>
+  <desc id="description">GromovaViktoriya: 1061 contributions. Longest streak 111 days. Current streak 2 days. 2025-11-03 to 2026-11-02, UTC.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-variant-numeric: tabular-nums; }
     .still { display: inline; }
@@ -359,13 +359,13 @@
 <g><polygon points="803.7,515.8 815.6,522.4 815.6,484.9 803.7,478.3" fill="#30b146"></polygon><polygon points="827.4,515.8 815.6,522.4 815.6,484.9 827.4,478.3" fill="#278f38"></polygon><polygon points="815.6,471.6 827.4,478.3 815.6,484.9 803.7,478.3" fill="#39d353"></polygon></g>
 <g><polygon points="830.1,515.8 842.0,522.4 842.0,500.2 830.1,493.6" fill="#005c2a"></polygon><polygon points="853.8,515.8 842.0,522.4 842.0,500.2 853.8,493.6" fill="#004a22"></polygon><polygon points="842.0,486.9 853.8,493.6 842.0,500.2 830.1,493.6" fill="#006d32"></polygon></g>
 <g><polygon points="856.5,515.8 868.4,522.4 868.4,505.8 856.5,499.2" fill="#005c2a"></polygon><polygon points="880.2,515.8 868.4,522.4 868.4,505.8 880.2,499.2" fill="#004a22"></polygon><polygon points="868.4,492.6 880.2,499.2 868.4,505.8 856.5,499.2" fill="#006d32"></polygon></g>
-<g><polygon points="882.9,515.8 894.8,522.4 894.8,505.8 882.9,499.2" fill="#005c2a"></polygon><polygon points="906.7,515.8 894.8,522.4 894.8,505.8 906.7,499.2" fill="#004a22"></polygon><polygon points="894.8,492.6 906.7,499.2 894.8,505.8 882.9,499.2" fill="#006d32"></polygon></g>
+<g><polygon points="882.9,515.8 894.8,522.4 894.8,508.9 882.9,502.2" fill="#0c3922"></polygon><polygon points="906.7,515.8 894.8,522.4 894.8,508.9 906.7,502.2" fill="#0a2e1c"></polygon><polygon points="894.8,495.6 906.7,502.2 894.8,508.9 882.9,502.2" fill="#0e4429"></polygon></g>
 <g><polygon points="737.7,523.2 749.5,529.8 749.5,478.3 737.7,471.6" fill="#30b146"></polygon><polygon points="761.4,523.2 749.5,529.8 749.5,478.3 761.4,471.6" fill="#278f38"></polygon><polygon points="749.5,465.0 761.4,471.6 749.5,478.3 737.7,471.6" fill="#39d353"></polygon></g>
 <g><polygon points="764.1,523.2 775.9,529.8 775.9,519.5 764.1,512.9" fill="#0c3922"></polygon><polygon points="787.8,523.2 775.9,529.8 775.9,519.5 787.8,512.9" fill="#0a2e1c"></polygon><polygon points="775.9,506.2 787.8,512.9 775.9,519.5 764.1,512.9" fill="#0e4429"></polygon></g>
 <g><polygon points="790.5,523.2 802.3,529.8 802.3,510.4 790.5,503.7" fill="#005c2a"></polygon><polygon points="814.2,523.2 802.3,529.8 802.3,510.4 814.2,503.7" fill="#004a22"></polygon><polygon points="802.3,497.1 814.2,503.7 802.3,510.4 790.5,503.7" fill="#006d32"></polygon></g>
 <g><polygon points="816.9,523.2 828.8,529.8 828.8,499.7 816.9,493.1" fill="#208b37"></polygon><polygon points="840.6,523.2 828.8,529.8 828.8,499.7 840.6,493.1" fill="#1a712c"></polygon><polygon points="828.8,486.4 840.6,493.1 828.8,499.7 816.9,493.1" fill="#26a641"></polygon></g>
 <g><polygon points="843.3,523.2 855.2,529.8 855.2,519.5 843.3,512.9" fill="#0c3922"></polygon><polygon points="867.0,523.2 855.2,529.8 855.2,519.5 867.0,512.9" fill="#0a2e1c"></polygon><polygon points="855.2,506.2 867.0,512.9 855.2,519.5 843.3,512.9" fill="#0e4429"></polygon></g>
-<g><polygon points="869.7,523.2 881.6,529.8 881.6,519.5 869.7,512.9" fill="#0c3922"></polygon><polygon points="893.5,523.2 881.6,529.8 881.6,519.5 893.5,512.9" fill="#0a2e1c"></polygon><polygon points="881.6,506.2 893.5,512.9 881.6,519.5 869.7,512.9" fill="#0e4429"></polygon></g>
+<g><polygon points="869.7,523.2 881.6,529.8 881.6,499.7 869.7,493.1" fill="#208b37"></polygon><polygon points="893.5,523.2 881.6,529.8 881.6,499.7 893.5,493.1" fill="#1a712c"></polygon><polygon points="881.6,486.4 893.5,493.1 881.6,499.7 869.7,493.1" fill="#26a641"></polygon></g>
 <g><polygon points="750.9,530.5 762.7,537.2 762.7,499.7 750.9,493.0" fill="#30b146"></polygon><polygon points="774.6,530.5 762.7,537.2 762.7,499.7 774.6,493.0" fill="#278f38"></polygon><polygon points="762.7,486.4 774.6,493.0 762.7,499.7 750.9,493.0" fill="#39d353"></polygon></g>
 <g><polygon points="777.3,530.5 789.1,537.2 789.1,526.9 777.3,520.3" fill="#0c3922"></polygon><polygon points="801.0,530.5 789.1,537.2 789.1,526.9 801.0,520.3" fill="#0a2e1c"></polygon><polygon points="789.1,513.6 801.0,520.3 789.1,526.9 777.3,520.3" fill="#0e4429"></polygon></g>
 <g><polygon points="803.7,530.5 815.6,537.2 815.6,517.7 803.7,511.1" fill="#005c2a"></polygon><polygon points="827.4,530.5 815.6,537.2 815.6,517.7 827.4,511.1" fill="#004a22"></polygon><polygon points="815.6,504.4 827.4,511.1 815.6,517.7 803.7,511.1" fill="#006d32"></polygon></g>
@@ -375,11 +375,11 @@
 <g><polygon points="816.9,537.9 828.8,544.6 828.8,471.2 816.9,464.6" fill="#30b146"></polygon><polygon points="840.6,537.9 828.8,544.6 828.8,471.2 840.6,464.6" fill="#278f38"></polygon><polygon points="828.8,457.9 840.6,464.6 828.8,471.2 816.9,464.6" fill="#39d353"></polygon></g>
 <g><polygon points="777.3,545.3 789.1,551.9 789.1,524.4 777.3,517.8" fill="#208b37"></polygon><polygon points="801.0,545.3 789.1,551.9 789.1,524.4 801.0,517.8" fill="#1a712c"></polygon><polygon points="789.1,511.1 801.0,517.8 789.1,524.4 777.3,517.8" fill="#26a641"></polygon></g>
 <g><polygon points="803.7,545.3 815.6,551.9 815.6,538.4 803.7,531.8" fill="#0c3922"></polygon><polygon points="827.4,545.3 815.6,551.9 815.6,538.4 827.4,531.8" fill="#0a2e1c"></polygon><polygon points="815.6,525.1 827.4,531.8 815.6,538.4 803.7,531.8" fill="#0e4429"></polygon></g>
-<g><polygon points="790.5,552.7 802.3,559.3 802.3,549.1 790.5,542.4" fill="#0c3922"></polygon><polygon points="814.2,552.7 802.3,559.3 802.3,549.1 814.2,542.4" fill="#0a2e1c"></polygon><polygon points="802.3,535.8 814.2,542.4 802.3,549.1 790.5,542.4" fill="#0e4429"></polygon></g><text x="111.8" y="185.7" font-size="11" fill="#9198a1">Nov</text><text x="164.6" y="215.3" font-size="11" fill="#9198a1">Dec</text><text x="217.5" y="244.8" font-size="11" fill="#9198a1">Jan</text><text x="283.5" y="281.7" font-size="11" fill="#9198a1">Feb</text><text x="336.3" y="311.3" font-size="11" fill="#9198a1">Mar</text><text x="389.1" y="340.8" font-size="11" fill="#9198a1">Apr</text><text x="441.9" y="370.3" font-size="11" fill="#9198a1">May</text><text x="507.9" y="407.2" font-size="11" fill="#9198a1">Jun</text><text x="560.7" y="436.8" font-size="11" fill="#9198a1">Jul</text><text x="613.5" y="466.3" font-size="11" fill="#9198a1">Aug</text><text x="679.6" y="503.2" font-size="11" fill="#9198a1">Sep</text><text x="732.4" y="532.7" font-size="11" fill="#9198a1">Oct</text><text x="798.4" y="569.7" font-size="11" fill="#9198a1">Nov</text></g>
+<g><polygon points="790.5,552.7 802.3,559.3 802.3,556.2 790.5,549.6" fill="#1c2026"></polygon><polygon points="814.2,552.7 802.3,559.3 802.3,556.2 814.2,549.6" fill="#161a1f"></polygon><polygon points="802.3,542.9 814.2,549.6 802.3,556.2 790.5,549.6" fill="#21262d"></polygon></g><text x="111.8" y="185.7" font-size="11" fill="#9198a1">Nov</text><text x="164.6" y="215.3" font-size="11" fill="#9198a1">Dec</text><text x="217.5" y="244.8" font-size="11" fill="#9198a1">Jan</text><text x="283.5" y="281.7" font-size="11" fill="#9198a1">Feb</text><text x="336.3" y="311.3" font-size="11" fill="#9198a1">Mar</text><text x="389.1" y="340.8" font-size="11" fill="#9198a1">Apr</text><text x="441.9" y="370.3" font-size="11" fill="#9198a1">May</text><text x="507.9" y="407.2" font-size="11" fill="#9198a1">Jun</text><text x="560.7" y="436.8" font-size="11" fill="#9198a1">Jul</text><text x="613.5" y="466.3" font-size="11" fill="#9198a1">Aug</text><text x="679.6" y="503.2" font-size="11" fill="#9198a1">Sep</text><text x="732.4" y="532.7" font-size="11" fill="#9198a1">Oct</text><text x="798.4" y="569.7" font-size="11" fill="#9198a1">Nov</text></g>
   
   <g class="still"><g text-anchor="end">
     <text x="949" y="133" font-size="13" fill="#9198a1" >1 year total</text>
-    <text x="949" y="179" fill="#ff934f" font-size="44" font-weight="600">1,056<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
+    <text x="949" y="179" fill="#ff934f" font-size="44" font-weight="600">1,061<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
     <text x="949" y="202" font-size="12" fill="#9198a1" >Nov 3, 2025 – Nov 2, 2026</text>
   </g><g text-anchor="end">
     <text x="949" y="239" font-size="13" fill="#9198a1" >Busiest day</text>
@@ -387,12 +387,12 @@
     <text x="949" y="308" font-size="12" fill="#9198a1" >Oct 5</text>
   </g><g text-anchor="start">
     <text x="48" y="420" font-size="13" fill="#9198a1" >Longest streak</text>
-    <text x="48" y="466" fill="#ff934f" font-size="44" font-weight="600">114<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
-    <text x="48" y="489" font-size="12" fill="#9198a1" >Jul 12 – Nov 2</text>
+    <text x="48" y="466" fill="#ff934f" font-size="44" font-weight="600">111<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
+    <text x="48" y="489" font-size="12" fill="#9198a1" >Jul 12 – Oct 30</text>
   </g><g text-anchor="start">
     <text x="48" y="525" font-size="13" fill="#9198a1" >Current streak</text>
-    <text x="48" y="571" fill="#ff934f" font-size="44" font-weight="600">114<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
-    <text x="48" y="594" font-size="12" fill="#9198a1" >Jul 12 – Nov 2</text>
+    <text x="48" y="571" fill="#ff934f" font-size="44" font-weight="600">2<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
+    <text x="48" y="594" font-size="12" fill="#9198a1" >Nov 1 – Nov 2</text>
   </g></g>
   
   <path d="M44 612H956" stroke="#30363d"/>
