@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title description">
   <title id="title">GitHub skyline — GromovaViktoriya</title>
-  <desc id="description">GromovaViktoriya: 1136 contributions. Longest streak 111 days. Current streak 14 days. 2025-11-16 to 2026-11-15, UTC.</desc>
+  <desc id="description">GromovaViktoriya: 1137 contributions. Longest streak 111 days. Current streak 15 days. 2025-11-16 to 2026-11-15, UTC.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-variant-numeric: tabular-nums; }
     .still { display: inline; }
@@ -360,7 +360,7 @@
 <g><polygon points="818.3,512.7 830.8,519.6 830.8,442.7 818.3,435.8" fill="#30b146"></polygon><polygon points="843.2,512.7 830.8,519.6 830.8,442.7 843.2,435.8" fill="#278f38"></polygon><polygon points="830.8,428.8 843.2,435.8 830.8,442.7 818.3,435.8" fill="#39d353"></polygon></g>
 <g><polygon points="846.0,512.7 858.5,519.6 858.5,465.6 846.0,458.7" fill="#30b146"></polygon><polygon points="870.9,512.7 858.5,519.6 858.5,465.6 870.9,458.7" fill="#278f38"></polygon><polygon points="858.5,451.7 870.9,458.7 858.5,465.6 846.0,458.7" fill="#39d353"></polygon></g>
 <g><polygon points="873.7,512.7 886.2,519.6 886.2,488.1 873.7,481.1" fill="#208b37"></polygon><polygon points="898.6,512.7 886.2,519.6 886.2,488.1 898.6,481.1" fill="#1a712c"></polygon><polygon points="886.2,474.2 898.6,481.1 886.2,488.1 873.7,481.1" fill="#26a641"></polygon></g>
-<g><polygon points="901.4,512.7 913.8,519.6 913.8,516.4 901.4,509.4" fill="#1c2026"></polygon><polygon points="926.3,512.7 913.8,519.6 913.8,516.4 926.3,509.4" fill="#161a1f"></polygon><polygon points="913.8,502.5 926.3,509.4 913.8,516.4 901.4,509.4" fill="#21262d"></polygon></g>
+<g><polygon points="901.4,512.7 913.8,519.6 913.8,508.9 901.4,501.9" fill="#0c3922"></polygon><polygon points="926.3,512.7 913.8,519.6 913.8,508.9 926.3,501.9" fill="#0a2e1c"></polygon><polygon points="913.8,494.9 926.3,501.9 913.8,508.9 901.4,501.9" fill="#0e4429"></polygon></g>
 <g><polygon points="749.1,520.4 761.6,527.4 761.6,473.4 749.1,466.4" fill="#30b146"></polygon><polygon points="774.0,520.4 761.6,527.4 761.6,473.4 774.0,466.4" fill="#278f38"></polygon><polygon points="761.6,459.4 774.0,466.4 761.6,473.4 749.1,466.4" fill="#39d353"></polygon></g>
 <g><polygon points="776.8,520.4 789.3,527.4 789.3,507.0 776.8,500.0" fill="#005c2a"></polygon><polygon points="801.7,520.4 789.3,527.4 789.3,507.0 801.7,500.0" fill="#004a22"></polygon><polygon points="789.3,493.1 801.7,500.0 789.3,507.0 776.8,500.0" fill="#006d32"></polygon></g>
 <g><polygon points="804.5,520.4 816.9,527.4 816.9,448.3 804.5,441.3" fill="#30b146"></polygon><polygon points="829.4,520.4 816.9,527.4 816.9,448.3 829.4,441.3" fill="#278f38"></polygon><polygon points="816.9,434.3 829.4,441.3 816.9,448.3 804.5,441.3" fill="#39d353"></polygon></g>
@@ -379,7 +379,7 @@
   
   <g class="still"><g text-anchor="end">
     <text x="949" y="133" font-size="13" fill="#9198a1" >1 year total</text>
-    <text x="949" y="179" fill="#ff934f" font-size="44" font-weight="600">1,136<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
+    <text x="949" y="179" fill="#ff934f" font-size="44" font-weight="600">1,137<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
     <text x="949" y="202" font-size="12" fill="#9198a1" >Nov 16, 2025 – Nov 15, 2026</text>
   </g><g text-anchor="end">
     <text x="949" y="239" font-size="13" fill="#9198a1" >Busiest day</text>
@@ -391,8 +391,8 @@
     <text x="48" y="489" font-size="12" fill="#9198a1" >Jul 12 – Oct 30</text>
   </g><g text-anchor="start">
     <text x="48" y="525" font-size="13" fill="#9198a1" >Current streak</text>
-    <text x="48" y="571" fill="#ff934f" font-size="44" font-weight="600">14<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
-    <text x="48" y="594" font-size="12" fill="#9198a1" >Nov 1 – Nov 14</text>
+    <text x="48" y="571" fill="#ff934f" font-size="44" font-weight="600">15<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
+    <text x="48" y="594" font-size="12" fill="#9198a1" >Nov 1 – Nov 15</text>
   </g></g>
   
   <path d="M44 612H956" stroke="#30363d"/>
