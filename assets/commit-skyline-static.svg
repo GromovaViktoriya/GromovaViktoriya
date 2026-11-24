@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title description">
   <title id="title">GitHub skyline — GromovaViktoriya</title>
-  <desc id="description">GromovaViktoriya: 1161 contributions. Longest streak 111 days. Current streak 23 days. 2025-11-24 to 2026-11-23, UTC.</desc>
+  <desc id="description">GromovaViktoriya: 1162 contributions. Longest streak 111 days. Current streak 24 days. 2025-11-25 to 2026-11-24, UTC.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-variant-numeric: tabular-nums; }
     .still { display: inline; }
@@ -11,8 +11,7 @@
   <text x="970" y="39" font-size="11" fill="#9198a1" text-anchor="end" letter-spacing="1.4">LAST 365 DAYS</text>
   <rect x="24.5" y="72.5" width="951" height="581" rx="10" fill="none" stroke="#30363d"/>
   <text x="46" y="103" font-size="12" fill="#9198a1" >@GromovaViktoriya</text>
-  <g class="still"><g><polygon points="167.8,117.9 180.3,124.9 180.3,114.1 167.8,107.1" fill="#0c3922"></polygon><polygon points="192.7,117.9 180.3,124.9 180.3,114.1 192.7,107.1" fill="#0a2e1c"></polygon><polygon points="180.3,100.2 192.7,107.1 180.3,114.1 167.8,107.1" fill="#0e4429"></polygon></g>
-<g><polygon points="195.5,117.9 207.9,124.9 207.9,114.1 195.5,107.1" fill="#0c3922"></polygon><polygon points="220.4,117.9 207.9,124.9 207.9,114.1 220.4,107.1" fill="#0a2e1c"></polygon><polygon points="207.9,100.2 220.4,107.1 207.9,114.1 195.5,107.1" fill="#0e4429"></polygon></g>
+  <g class="still"><g><polygon points="195.5,117.9 207.9,124.9 207.9,114.1 195.5,107.1" fill="#0c3922"></polygon><polygon points="220.4,117.9 207.9,124.9 207.9,114.1 220.4,107.1" fill="#0a2e1c"></polygon><polygon points="207.9,100.2 220.4,107.1 207.9,114.1 195.5,107.1" fill="#0e4429"></polygon></g>
 <g><polygon points="154.0,125.6 166.4,132.6 166.4,121.8 154.0,114.9" fill="#0c3922"></polygon><polygon points="178.9,125.6 166.4,132.6 166.4,121.8 178.9,114.9" fill="#0a2e1c"></polygon><polygon points="166.4,107.9 178.9,114.9 166.4,121.8 154.0,114.9" fill="#0e4429"></polygon></g>
 <g><polygon points="181.6,125.6 194.1,132.6 194.1,121.8 181.6,114.9" fill="#0c3922"></polygon><polygon points="206.6,125.6 194.1,132.6 194.1,121.8 206.6,114.9" fill="#0a2e1c"></polygon><polygon points="194.1,107.9 206.6,114.9 194.1,121.8 181.6,114.9" fill="#0e4429"></polygon></g>
 <g><polygon points="209.3,125.6 221.8,132.6 221.8,129.4 209.3,122.4" fill="#1c2026"></polygon><polygon points="234.2,125.6 221.8,132.6 221.8,129.4 234.2,122.4" fill="#161a1f"></polygon><polygon points="221.8,115.4 234.2,122.4 221.8,129.4 209.3,122.4" fill="#21262d"></polygon></g>
@@ -370,6 +369,7 @@
 <g><polygon points="790.7,528.1 803.1,535.1 803.1,500.9 790.7,494.0" fill="#30b146"></polygon><polygon points="815.6,528.1 803.1,535.1 803.1,500.9 815.6,494.0" fill="#278f38"></polygon><polygon points="803.1,487.0 815.6,494.0 803.1,500.9 790.7,494.0" fill="#39d353"></polygon></g>
 <g><polygon points="818.4,528.1 830.8,535.1 830.8,509.0 818.4,502.0" fill="#208b37"></polygon><polygon points="843.3,528.1 830.8,535.1 830.8,509.0 843.3,502.0" fill="#1a712c"></polygon><polygon points="830.8,495.1 843.3,502.0 830.8,509.0 818.4,502.0" fill="#26a641"></polygon></g>
 <g><polygon points="846.0,528.1 858.5,535.1 858.5,517.7 846.0,510.8" fill="#005c2a"></polygon><polygon points="871.0,528.1 858.5,535.1 858.5,517.7 871.0,510.8" fill="#004a22"></polygon><polygon points="858.5,503.8 871.0,510.8 858.5,517.7 846.0,510.8" fill="#006d32"></polygon></g>
+<g><polygon points="873.7,528.1 886.2,535.1 886.2,520.9 873.7,513.9" fill="#0c3922"></polygon><polygon points="898.6,528.1 886.2,535.1 886.2,520.9 898.6,513.9" fill="#0a2e1c"></polygon><polygon points="886.2,507.0 898.6,513.9 886.2,520.9 873.7,513.9" fill="#0e4429"></polygon></g>
 <g><polygon points="776.8,535.9 789.3,542.8 789.3,528.6 776.8,521.7" fill="#0c3922"></polygon><polygon points="801.8,535.9 789.3,542.8 789.3,528.6 801.8,521.7" fill="#0a2e1c"></polygon><polygon points="789.3,514.7 801.8,521.7 789.3,528.6 776.8,521.7" fill="#0e4429"></polygon></g>
 <g><polygon points="804.5,535.9 817.0,542.8 817.0,522.5 804.5,515.5" fill="#005c2a"></polygon><polygon points="829.4,535.9 817.0,542.8 817.0,522.5 829.4,515.5" fill="#004a22"></polygon><polygon points="817.0,508.5 829.4,515.5 817.0,522.5 804.5,515.5" fill="#006d32"></polygon></g>
 <g><polygon points="832.2,535.9 844.7,542.8 844.7,525.5 832.2,518.5" fill="#005c2a"></polygon><polygon points="857.1,535.9 844.7,542.8 844.7,525.5 857.1,518.5" fill="#004a22"></polygon><polygon points="844.7,511.5 857.1,518.5 844.7,525.5 832.2,518.5" fill="#006d32"></polygon></g>
@@ -379,8 +379,8 @@
   
   <g class="still"><g text-anchor="end">
     <text x="949" y="133" font-size="13" fill="#9198a1" >1 year total</text>
-    <text x="949" y="179" fill="#ff934f" font-size="44" font-weight="600">1,161<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
-    <text x="949" y="202" font-size="12" fill="#9198a1" >Nov 24, 2025 – Nov 23, 2026</text>
+    <text x="949" y="179" fill="#ff934f" font-size="44" font-weight="600">1,162<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
+    <text x="949" y="202" font-size="12" fill="#9198a1" >Nov 25, 2025 – Nov 24, 2026</text>
   </g><g text-anchor="end">
     <text x="949" y="239" font-size="13" fill="#9198a1" >Busiest day</text>
     <text x="949" y="285" fill="#ff934f" font-size="44" font-weight="600">49<tspan fill="#e6edf3" font-size="15" font-weight="400"> contributions</tspan></text>
@@ -391,12 +391,12 @@
     <text x="48" y="489" font-size="12" fill="#9198a1" >Jul 12 – Oct 30</text>
   </g><g text-anchor="start">
     <text x="48" y="525" font-size="13" fill="#9198a1" >Current streak</text>
-    <text x="48" y="571" fill="#ff934f" font-size="44" font-weight="600">23<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
-    <text x="48" y="594" font-size="12" fill="#9198a1" >Nov 1 – Nov 23</text>
+    <text x="48" y="571" fill="#ff934f" font-size="44" font-weight="600">24<tspan fill="#e6edf3" font-size="15" font-weight="400"> days</tspan></text>
+    <text x="48" y="594" font-size="12" fill="#9198a1" >Nov 1 – Nov 24</text>
   </g></g>
   
   <path d="M44 612H956" stroke="#30363d"/>
-  <text x="46" y="638" font-size="11" fill="#9198a1" >Updated Nov 23, 2026 · UTC</text>
+  <text x="46" y="638" font-size="11" fill="#9198a1" >Updated Nov 24, 2026 · UTC</text>
   <text x="784" y="638" font-size="11" fill="#9198a1" >Less</text>
   <rect x="818" y="627" width="12" height="12" rx="2" fill="#21262d"/><rect x="836" y="627" width="12" height="12" rx="2" fill="#0e4429"/><rect x="854" y="627" width="12" height="12" rx="2" fill="#006d32"/><rect x="872" y="627" width="12" height="12" rx="2" fill="#26a641"/><rect x="890" y="627" width="12" height="12" rx="2" fill="#39d353"/>
   <text x="921" y="638" font-size="11" fill="#9198a1" >More</text>
